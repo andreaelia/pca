@@ -1,0 +1,11 @@
+Package: pcashinyapp
+Type: Package
+Title: PCA functions for the PCA shiny application
+Version: 1.0
+Date: 2016-02-25
+Author: Elia Andrea
+Maintainer: Elia Andrea <andrea.elia27@gmail.com>
+Description: The package contain the function for create the pca output within the pca shiny application. The function are pca_shiny and T_Qresidual_shiny. pca_shiny function provide the results of pca in terms of biplot of scores and loadings, plot of scores, plot of loadings, plot of cumulative and explained variance. T_Qresidual_shiny function provides the results in terms of T2 vs Q residual plot and cumulative plot.
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2016-02-26 07:51:13 UTC; Andrea
